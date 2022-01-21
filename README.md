@@ -8,3 +8,9 @@ Présentation des concepts plus avancé.
 - git merge --no-ff
 - git merge --squash && git commit
 - git rebase
+
+## Workflow
+
+- Centralized
+- Git flow
+- Github flow
