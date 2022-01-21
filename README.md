@@ -14,3 +14,4 @@ Présentation des concepts plus avancé.
 - Centralized
 - Git flow
 - Github flow
+- Gitlab flow
